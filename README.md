@@ -33,5 +33,5 @@ This system captures hand gestures using a webcam, trains a custom model, and pr
 
 ---
 
-## 📁 Project Structure
+
 
